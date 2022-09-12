@@ -1,0 +1,4 @@
+com\pruebas\rest\PersonaRest.class
+com\pruebas\PruebasApplication.class
+com\pruebas\dao\PersonaDAO.class
+com\pruebas\model\Persona.class
